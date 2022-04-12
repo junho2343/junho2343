@@ -3,7 +3,4 @@
 About : **https://junho2343.github.io/**
 
 ***
-<a href="https://www.credly.com/badges/647c637d-ccd4-4b56-bc45-058606547fa4/public_url" target="_blank">
-  <img src="/aws-certified-solutions-architect-associate.png" width="100" height="100"/>
-</a>
-
+[<img src="/aws-certified-solutions-architect-associate.png" width="80" height="80"/>](https://www.credly.com/badges/647c637d-ccd4-4b56-bc45-058606547fa4/public_url)
